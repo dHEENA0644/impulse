@@ -14,6 +14,7 @@ const Index = () => {
         <h1 className="text-4xl font-display font-bold leading-tight">
           Master Your <span className="text-primary">Impulses</span>
         </h1>
+        <p className="text-[10px] text-muted-foreground/10">v1.0.1-fixed</p>
         <p className="text-muted-foreground text-lg max-w-md mx-auto">
           Pause, reflect, and track your spending thoughts. Build better habits, one choice at a time.
         </p>
